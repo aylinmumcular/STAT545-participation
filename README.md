@@ -12,11 +12,11 @@ Links to each week's folder can be found below.
 - <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%207"> Class Meeting 7
 - <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%208"> Class Meeting 8
 - <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%209"> Class Meeting 9
-- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%210"> Class Meeting 10
-- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%211"> Class Meeting 11
-- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%212"> Class Meeting 12
-- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%213"> Class Meeting 13
-- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%214"> Class Meeting 14  
+- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%2010"> Class Meeting 10
+- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%2011"> Class Meeting 11
+- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%2012"> Class Meeting 12
+- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%2013"> Class Meeting 13
+- <a href="https://github.com/aylinmumcular/STAT545-participation/tree/master/Class%20Meeting%2014"> Class Meeting 14  
 
 
 Enjoy!
